@@ -1,11 +1,14 @@
-# Batteries | Батарейки
+# Классы:
+### Работа с файловой системой (префикс файлов - `[Files]`):
+##### `[Files] ListOfPathlibPath.py`
 
-### Description in Russian | Описание на русском
->Мои батарейки, которые позволяют облегчить работу с другими вещами.
->Здесь есть методы, классы и структуры данных.
+**Назначение**: получение списка объектов `Path` конкретной директории
+*Фичи:*
+- ProgressBar
+- - Хеш всех файлов из массива и удобная структура данных (аналог NamedTuple) для этого.
 
-### Description in English | Описание на английском
->My batteries, which make it easy to work with other things.
->There are methods, classes, and data structures.
+- **Описание:**
+- - 
+- -  
 
 
